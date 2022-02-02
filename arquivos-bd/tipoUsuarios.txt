@@ -1,0 +1,6 @@
+id;tipoUsuario
+1;Presidente
+2;Diretor
+3;Gerente
+4;Caixa
+5;Cliente

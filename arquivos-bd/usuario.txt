@@ -1,0 +1,26 @@
+Senha;Cpf;Nome;Sobrenome;Block;TipoUsuario;Salario;Cargo;Agencia1;Agencia2
+12345678;111;Felipe;Menegueli;false;1;50000.00;Presidente;0;0
+87654321;101;Antonio;Nunes;false;2;30000.00;Diretor;1;2
+abcdefgh;100;Manuel;Garrincha;false;2;30000.00;Diretor;3;4
+ldoi8429;223;Leandro;Limeira;false;3;20000.00;Gerente;1;0
+pdrn49f4;220;Jacinto;Aquino;false;3;20000.00;Gerente;2;0
+58941132;330;Jalin;Rabei;false;3;20000.00;Gerente;3;0
+89456128;774;Tomas;Turbano;false;3;20000.00;Gerente;4;0
+15862186;405;Adriano;Ribeiro;false;4;10000.00;Caixa;1;0
+83952647;775;Luan;Rocha;false;4;10000.00;Caixa;1;0
+34235253;686;Kaue;Carvalho;false;4;10000.00;Caixa;2;0
+74547737;563;Isabella;Cavalcanti;false;4;10000.00;Caixa;2;0
+62774349;647;Lorena;Castro;false;4;10000.00;Caixa;3;0
+76574577;609;Nicolas;Melo;false;4;10000.00;Caixa;3;0
+33544859;999;Maria;Ribeiro;false;4;10000.00;Caixa;4;0
+94473612;351;joel;Ferreira;false;4;10000.00;Caixa;4;0
+abcd5678;325;Mahatma;Gandi;false;5;0;Cliente;0;0
+abcd1234;001;Edson;Arantes do Nascimento;false;5;0;Cliente;0;0
+dcba2345;985;Martin Lutter;King;false;5;0;Cliente;0;0
+156453;504;Mariane;Regina Souza;false;5;0;Cliente;0;0
+054312;260;Severino;Leonardo Almeida;false;5;0;Cliente;0;0
+159843;137;Juan;Diogo dos Santos;false;5;0;Cliente;0;0
+597892;977;Raquel;Marlene Assis;false;5;0;Cliente;0;0
+249874;900;Vicente;Benjamin Leonardo Ramos;false;5;0;Cliente;0;0
+324765;501;Vanessa;Isabelle Elisa da Costa;false;5;0;Cliente;0;0
+12345678;211;Tarcisio;Meira;false;5;0;Cliente;0;0
